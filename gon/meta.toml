@@ -1,13 +1,9 @@
-name = "白馬岳"
+name = "ごんぎつね"
 author = "Vivliostyle.org"
 files = [
-  "img/Mount_Shirouma_from_Mount_Korenge_2000-7-31.jpg",
-  "img/Shiroumadake_from_Shiroumayari_1999-10-10.jpg",
-  "img/bg-left.png",
-  "img/bg-right.png",
-  "img/photo_shirouma.jpg",
+  "img/Vulpes_vulpes_japonica_in_Mount_Shirouma_1996-09-29.jpg",
+  "img/gon.jpg",
   "index.html",
-  "responsive.css",
   "responsive.html",
   "scss/base/_contents.scss",
   "scss/base/_format.scss",
@@ -20,8 +16,8 @@ previewImeges = [
 ]
 tags = [
   "vertical_text",
-  "multi_column",
   "ruby",
   "page_margin_box",
+  "page_counter",
   "ja"
 ]
