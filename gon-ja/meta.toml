@@ -1,5 +1,6 @@
 name = "ごん狐"
 author = "Vivliostyle.org"
+license = "AGPL-3.0"
 files = [
   "img/Vulpes_vulpes_japonica_in_Mount_Shirouma_1996-09-29.jpg",
   "img/gon.jpg",

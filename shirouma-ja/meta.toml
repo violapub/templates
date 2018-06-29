@@ -1,5 +1,6 @@
 name = "白馬岳"
 author = "Vivliostyle.org"
+license = "AGPL-3.0"
 files = [
   "img/Mount_Shirouma_from_Mount_Korenge_2000-7-31.jpg",
   "img/Shiroumadake_from_Shiroumayari_1999-10-10.jpg",
