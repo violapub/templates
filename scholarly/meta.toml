@@ -1,0 +1,31 @@
+name = "scholarly"
+author = "Vivliostyle.org"
+license = "Apache-2.0"
+files = [
+  "affiliations.png",
+  "card-bg.png",
+  "fonts/libre-baskerville-bold.css",
+  "fonts/libre-baskerville-italic.css",
+  "fonts/libre-baskerville-regular.css",
+  "fonts/librebaskerville-bold.woff2",
+  "fonts/librebaskerville-italic.woff2",
+  "fonts/librebaskerville-regular.woff2",
+  "hop-less.png",
+  "index.html",
+  "node_modules/normalize.css/normalize.css",
+  "node_modules/prismjs/prism.js",
+  "node_modules/prismjs/themes/prism-coy.css",
+  "scholarly.css",
+  "sciencedotai.svg"
+]
+previewImeges = [
+  "screenshots/p1.png"
+]
+tags = [
+  "page_templates", 
+  "multi_column",
+  "web_fonts",
+  "scroll&pagination",
+  "flexbox",
+  "en"
+]
