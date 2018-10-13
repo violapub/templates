@@ -1,0 +1,35 @@
+name = "Welcome page (English)"
+author = "spring-raining <harusamex.com@gmail.com>"
+license = "CC-BY-4.0"
+files = [
+  "index.html",
+  "main.css",
+  "fonts/SourceHanSerifJP/LICENSE.txt",
+  "fonts/SourceHanSerifJP/SourceHanSerifJP-Medium.woff",
+  "image/img01.png",
+  "image/img02.png",
+  "image/img03.png",
+  "image/viola_logo.svg"
+]
+previewImeges = [
+  "screenshots/p1.png",
+  "screenshots/display.png"
+]
+tags = [
+  "tutorial",
+  "en"
+]
+
+description = """
+This is the default template for Viola, which introduces Viola's features.
+
+## License
+
+CC BY 4.0
+
+All font files are licensed under the SIL Open Font License, Version 1.1.
+
+## Author
+
+spring-raining
+"""
